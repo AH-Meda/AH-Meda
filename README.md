@@ -1,5 +1,8 @@
-### Greetings 👋, I am Meda
-Welcome to my GitHub profile! I'm Meda, a passionate Data and Machine Learning Engineer with a deep love for designing and implementing robust data pipelines, building scalable machine learning systems, and deriving actionable insights from data. With a strong background in ETL pipelines and building and deploying end-to-end machine learning models, I have worked on a range of projects. I am excited to share these projects in this repository over time and look forward to collaborating.
+### Greetings 👋, I'm Meda
+
+**`Jr. Data Engineer | Machine Learning Engineer`**
+
+I'm a passionate Data and Machine Learning Engineer with a deep love for designing and implementing robust data pipelines, building scalable machine learning systems, and deriving actionable insights from data. With a strong background in ETL pipelines and building and deploying end-to-end machine learning models, I have worked on, and am currently working on, a range of projects that I am excited to share in this repository over time. I look forward to collaborating.
 <!--
 **AH-Meda/AH-Meda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
