@@ -58,10 +58,7 @@ I'm a passionate Data and Machine Learning Engineer with a keen intereset for de
 <br> <br/>
 
 <h2 align="center">⚒️  📊 Github activity graph⚒️</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ah-meda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ah-meda&show_icons=true&locale=en&theme=gruvbox" alt="rishavchanda" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ah-meda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ah-meda&&theme=tokyonight" alt="rishavchanda" /></p>
 
