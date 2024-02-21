@@ -19,7 +19,6 @@ I'm a passionate Data and Machine Learning Engineer with a keen intereset for de
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/a_meda/)
 
 
-
 <br> <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
