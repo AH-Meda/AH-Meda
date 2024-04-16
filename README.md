@@ -2,9 +2,9 @@
 
 <h1 align="center"> Greetings 👋, I'm Meda </h1>
 
-**`I am Jr. Data Engineer | Machine Learning Engineer`**
+**`Jr. Data Analytics|Science, DE|MLE`**
 
-I'm a passionate Data and Machine Learning Engineer with a keen intereset for designing and implementing robust data pipelines, building scalable machine learning systems, and deriving actionable insights from data. With a strong background in ETL pipelines and building and deploying end-to-end machine learning models, I have worked on, and am currently working on, a range of projects that I am excited to share in this repository over time. I look forward to collaborating.
+Passionate about data, I specialize in data analysis, data science, and machine learning. I apply rigorous data analysis to extract valuable insights and solve complex problems. Using advanced statistical modeling and machine learning, I build predictive models and draw meaningful conclusions. I'm proficient in ETL pipelines and scalable machine learning systems, creating comprehensive data solutions. I look forward to collaborating on transformative data projects.
 
   - 📫 How to reach me **abdii.meda@gmail.com**
     
